@@ -1,0 +1,10 @@
+
+# Flask==2.0.2
+# gunicorn==20.1.0
+
+# https://pypi.org/project/flask/
+# https://pypi.org/project/gunicorn/
+
+fastapi
+gunicorn
+uvicorn
