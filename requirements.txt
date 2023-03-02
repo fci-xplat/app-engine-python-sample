@@ -8,3 +8,5 @@
 fastapi
 gunicorn
 uvicorn
+
+#pip freeze > requirements.txt
